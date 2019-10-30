@@ -1,4 +1,4 @@
-public class Demo{
+﻿public class Demo{
 	public static void main(String[] args) {
 		int x,y,z;
 		x = 200;
@@ -28,7 +28,7 @@ public class Demo{
 		
 		
 		char c1 = 'A';
-		char c2 = 'С';
+		char c2 = '小';
 		char c3 = '\t';
 		
 		System.out.println("c1="+c1);
